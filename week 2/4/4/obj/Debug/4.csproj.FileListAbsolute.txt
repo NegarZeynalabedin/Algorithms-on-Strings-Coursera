@@ -1,0 +1,6 @@
+C:\git\AD98992\coursera\onString\2\4\4\bin\Debug\4.exe
+C:\git\AD98992\coursera\onString\2\4\4\bin\Debug\4.pdb
+C:\git\AD98992\coursera\onString\2\4\4\obj\Debug\4.csprojAssemblyReference.cache
+C:\git\AD98992\coursera\onString\2\4\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\git\AD98992\coursera\onString\2\4\4\obj\Debug\4.exe
+C:\git\AD98992\coursera\onString\2\4\4\obj\Debug\4.pdb

@@ -1,0 +1,6 @@
+C:\git\AD98992\coursera\onString\q3\q3\bin\Debug\q3.exe
+C:\git\AD98992\coursera\onString\q3\q3\bin\Debug\q3.pdb
+C:\git\AD98992\coursera\onString\q3\q3\obj\Debug\q3.csprojAssemblyReference.cache
+C:\git\AD98992\coursera\onString\q3\q3\obj\Debug\q3.csproj.CoreCompileInputs.cache
+C:\git\AD98992\coursera\onString\q3\q3\obj\Debug\q3.exe
+C:\git\AD98992\coursera\onString\q3\q3\obj\Debug\q3.pdb
